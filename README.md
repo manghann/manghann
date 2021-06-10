@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h3> < Hello world, I'm Hanna</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img align=right src="https://user-images.githubusercontent.com/81686626/121507949-b2ef0700-ca17-11eb-9201-92b4ae4499ef.png" width="300px"> </h3>
 
-An undergraduate Computer Science student looking to pursue a career in Data Science. My passion includes combining my technical expertise and artistic flair to create impactful and data-driven stories. 🌱💬  
+An undergraduate Computer Science student looking to pursue a career in Data Science. My passion includes combining my technical expertise and artistic flair to create impactful and data-driven outputs. 🌱💬  
 
 ##### A little more about me...  
 
