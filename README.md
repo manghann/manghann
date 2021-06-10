@@ -24,7 +24,7 @@ hanna = {
   Location: 'Philippines', 
   'still trying?': True, 
   'Interests': [Youtube, video games, trends & tech, novels], 
-  'Education': {'De La Salle University - Dasmariñas': 'BS Computer Science'}, 
+  'Education': {'DLSU-Dasmariñas': 'BS Computer Science'}, 
   2018: present
 }
 ```  
