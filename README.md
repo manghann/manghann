@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h3> < Hello world, I'm Hanna</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img align=right src="https://user-images.githubusercontent.com/81686626/121507949-b2ef0700-ca17-11eb-9201-92b4ae4499ef.png" width="300px"> </h3>
 
-An undergraduate Computer Science student looking to pursue a career in Data Science. My passion includes combining my technical expertise and artistic flair to create impactful and data-driven outputs. 🌱💬  
+An undergraduate Computer Science student looking to pursue a career across the field of programming. My passion includes combining my technical expertise and artistic flair to create impactful outputs. 🌱💬  
 
 ##### A little more about me...  
 
@@ -30,9 +30,9 @@ hanna = {
 ```  
   
 ### 💻 Languages & Tools that I'm familiar with
-* HTML, Marvel, Figma
-* C++, Python, Firebase
-* MATLAB            
+* HTML/CSS, Marvel, Figma
+* C/C++, Python, Java/JavaScript
+* MATLAB, R, Google Firebase            
           
 <img src = 'https://image.flaticon.com/icons/png/512/179/179327.png' height='30'/> <img src = 'https://responsivewebdesign.com/dist/logos/podcast/png/marvel-app.png' height='30'/> <img src = 'https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png' height='30'/> <img src = 'https://img.icons8.com/color/1600/c-plus-plus-logo.png' height='30'/> <img src = 'https://th.bing.com/th/id/R10327dc6812b05b66a2b6b44c55a097c?rik=cFpWPme8MdKkog&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f10%2fPython_logo_icon.png&ehk=zyAUe9ow3JpVW68BIVpghgotQd6TF6fRiyaYSmhHYdw%3d&risl=&pid=ImgRaw' height='30'/> <img src ='https://rudderstack.com/wp-content/uploads/2020/04/firebase-logo.png' height='30'/><img src = 'https://seeklogo.com/images/M/matlab-logo-AE6C96A5DD-seeklogo.com.png' height='30'/>
   
